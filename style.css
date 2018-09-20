@@ -3,9 +3,28 @@
 }
 
 h1 {
-	color: #4f1217;
+	font-family: georgia;
+	font-size: 45px;
+	color: white;
+	border: 5px black solid;
 }
 
 body {
+	border: 5px white solid;
+	border-radius: 5px white solid;
 	background-image: url(https://filmfork-cdn.s3.amazonaws.com/content/menace.5.jpg)
+}
+
+h2 {
+	color: white;
+}	
+
+img {
+	border: 26px white solid;
+	border-radius: 26px white solid;
+}
+
+iframe {
+	border: 26px white solid;
+	border-radius: 26px white solid;
 }
