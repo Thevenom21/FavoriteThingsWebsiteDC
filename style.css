@@ -5,8 +5,8 @@
 h1 {
 	font-family: georgia;
 	font-size: 45px;
-	color: white;
-	border: 5px black solid;
+	color: white solid;
+	border: 5px red solid;
 }
 
 body {
@@ -16,7 +16,7 @@ body {
 }
 
 h2 {
-	color: white;
+	color: red;
 }	
 
 img {
